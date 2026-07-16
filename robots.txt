@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-mtpw48.nuansa138.site/sitemap.xml
